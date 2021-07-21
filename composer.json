@@ -8,7 +8,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^8.0",
+        "php": "~7.4",
         "consoletvs/charts": "^7.2",
         "fideloper/proxy": "^4.4",
         "guzzlehttp/guzzle": "^7.3",

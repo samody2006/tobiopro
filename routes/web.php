@@ -159,6 +159,7 @@ Route::post('/profile/updateAccount','ProfileController@updateAccount')->middlew
 Route::post('/profile/updatepassword','ProfileController@changePassword')->middleware('auth');
 
 //Admin Panel
+Route::get('/admin/add','PageController@addProperty')->middleware('auth:admin');
 Route::post('/admin/updateavatar','AdminController@updateAvatar')->middleware('auth:admin');
 Route::get('/admin/user/{user}/view','AdminController@viewUser')->middleware('auth:admin');
 Route::get('/admin/property/all','AdminController@viewAllProperty')->middleware('auth:admin');

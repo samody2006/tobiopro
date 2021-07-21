@@ -29,8 +29,10 @@
     <div class="card cardmargin">
         <div class="containerx">
             <div class="subtitle has-text-black-bis containerx">All Properties</div>
+            <a href="/admin/add" class="button is-dark nounnounderlinebtn is-pulled-right">Add New Property</a>
             <div class="column tableshow containerx" style="overflow-x: auto">
                 <table class="table">
+
                     <thead>
                         <tr>
                             <th>No</th>
