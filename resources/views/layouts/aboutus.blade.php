@@ -13,6 +13,8 @@
     <link href="https://fonts.googleapis.com/css?family=Exo+2:300i,400,400i,500,500i,600|Kanit:300,300i,400,400i,500,500i,600" rel="stylesheet">
 </head>
 
+
+
 <body>
 
     <div class="column is-full is-mobile backgroundimg">
