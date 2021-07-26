@@ -43,14 +43,13 @@
                 </div>
             </div>
             <br>
-            <p>Welcome to Tobio Properties, your number one source for all things real estate. We're dedicated to giving you the very best of real estate, with a focus on fast, trust, efficient.
+            <p>Welcome to Tobio Properties, your number one Realtor and Real Estate Consultant for all kind of Real Estate, with a focus on fast, trust and efficient service.<br>
                 <br>
-                <br>
-                <p>Founded in 2018 by Mercy T. Okro, Tobio Properties has come a long way from its beginnings in Augusta. When Mercy T. Okro first started out, her passion for fast and trustworthy drove them to do tons of search so that Tobio Properties can offer you the world's most advanced real state search engine. We now serve customers all over the world, and are thrilled that we're able to turn our passion into our own website.</p>
+                <p>Founded in August 2018 by Mercy T. Okoro, Tobio Properties has come a long way to assist home and abroad to axis. When Mercy T. Okoro first started out, her passion for fast and trustworthy drove them to do tons of search so that Tobio Properties can offer you the world's most advanced real state search engine. We now serve customers all over the world, and are thrilled that we're able to turn our passion into our own website.</p>
                 <br>
                 <p>We hope you enjoy our service as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.</p>
                 <br>
-                <p><i><b>Mercy T. Okro</b></i></p>
+                <p><i><b>Mercy T. Okoro</b></i></p>
         </div>
     </div>
 

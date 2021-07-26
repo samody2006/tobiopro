@@ -23,7 +23,7 @@ class AdminLoginController extends Controller
     {
         $url = 'https://www.google.com/recaptcha/api/siteverify';
         $data = [
-            'secret' => '6LfXZK4UAAAAAMWq3iwulLu1EmayOyMHNmpExl1v',
+            'secret' => '6LckHbQbAAAAAPIUVPm9ZtfVo0WiaDUaD5J3B34Q',
             'response' => request('recaptcha'),
         ];
 
